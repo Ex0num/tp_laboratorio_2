@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdministracionPjsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AltaPjsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BatallaPjsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImpresionPjsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModificacionPjsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PanelControlForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PedidoNombrePjForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
